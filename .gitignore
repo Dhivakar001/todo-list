@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Sensitive files
+firebase-applet-config.json
+google-services.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+serviceAccount*.json
+credentials*.json
